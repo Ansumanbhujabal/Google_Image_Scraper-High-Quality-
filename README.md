@@ -111,6 +111,17 @@ product-image-scraper/
 │
 └── ProductImages/                 # Directory where downloaded images are saved
 ```
+## Sample Output
+```json
+[
+    {"ITEM_NAME": "Mclaren F1 2025 Car"},
+]
+```
+Output Url - "https://www.motorsportweek.com/wp-content/uploads/2024/11/file-2024-11-05T232330.165.webp"
+
+
+Output Image -
+![image](https://github.com/user-attachments/assets/ae3a7d5d-f975-4c52-b51d-0767c3faf48d)
 
 ## Notes
 
