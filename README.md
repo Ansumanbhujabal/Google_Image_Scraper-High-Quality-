@@ -128,3 +128,6 @@ Output Image -
 - Ensure your internet connection is stable during the scraping and downloading processes.
 - The scripts include error handling and logging to help diagnose issues.
 - The image downloading script includes a delay (`time.sleep(2)`) to avoid overwhelming the server with requests.
+
+## Made By 
+Ansuman SS Bhujabala
